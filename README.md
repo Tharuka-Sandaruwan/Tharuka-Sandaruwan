@@ -22,7 +22,7 @@
   
 <h3 align="left">Watch my contribution graph get eaten by the snake 🐍</h3>
 
-![snake gif](https://github.com/Tharuka-Sandaruwan/Tharuka-Sandaruwan/blob/output/github-contribution-grid-snake.svg) 
+![snake gif](https://raw.githubusercontent.com/Tharuka-Sandaruwan/Tharuka-Sandaruwan/output/github-contribution-grid-snake.svg) 
 
 
 
