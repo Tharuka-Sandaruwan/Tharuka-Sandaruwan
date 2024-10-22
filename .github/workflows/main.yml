@@ -21,7 +21,7 @@ jobs:
     
     steps:
       - name: generate github-contribution-grid-snake.svg
-        uses: Tharuka-Sandaruwan/snk@master
+        uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
