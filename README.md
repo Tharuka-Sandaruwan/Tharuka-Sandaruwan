@@ -2,6 +2,18 @@
 
 **DevOps Engineer | CKA Certified | Java Backend Specialist**
 
+<div align="center">
+  <a href="https://linkedin.com/in/tharuka-sandaruwan" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://credly.com/users/tharuka-sandaruwan" target="_blank">
+    <img src="https://img.shields.io/badge/Credly-F47920?style=for-the-badge&logo=credly&logoColor=white" alt="Credly" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/tharuka-sandaruwan/transcript/735rpfp35rrg5l6" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Transcript" />
+  </a>
+</div>
+
 ---
 
 ### About Me
@@ -36,14 +48,3 @@ I am a professional DevOps Engineer and Backend Specialist passionate about brid
 ### Watch my contribution graph get eaten by the snake 🐍
 
 ![snake gif](https://raw.githubusercontent.com/Tharuka-Sandaruwan/Tharuka-Sandaruwan/refs/heads/output/github-contribution-grid-snake-dark.svg)
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tharuka-sandaruwan)
-[![Credly](https://img.shields.io/badge/Credly-F47920?style=for-the-badge&logo=credly&logoColor=white)](https://credly.com/users/tharuka-sandaruwan)
-[![Microsoft](https://img.shields.io/badge/Microsoft_Transcript-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/tharuka-sandaruwan/transcript/735rpfp35rrg5l6)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tharuka-Sandaruwan)
-
-</div>
